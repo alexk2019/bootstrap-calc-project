@@ -1,0 +1,49 @@
+#results1{
+	text-align: right;
+	background-color: grey;
+	color: white;
+	font-size: 50px;
+	padding-right: 1rem;
+	
+	
+}
+.results{
+	background-color: grey;
+
+}
+.orange{
+	color: white;
+	
+	
+}
+
+.integers2{
+	border-style: solid;
+	border-color: grey;
+	background-color: orange;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	text-align: center;
+	
+}
+.integer{
+	border-style: solid;
+	border-color: grey;
+	background-color: #DCDCDC;
+	border-top: none;
+	border-left: none;
+	text-align: center;
+}
+#integer1{
+	padding-bottom: 20px;
+}
+#integer3{
+	padding-bottom: 20px;
+}
+#integer4{
+	padding-bottom: 20px;
+}
+#integer5{
+	padding-bottom: 10px;
+}
